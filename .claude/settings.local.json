@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create vite@latest . -- --template react)",
+      "Bash(dir:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(del \"C:\\\\Users\\\\KAZUYUKI G\\\\Desktop\\\\system\\\\claude\\\\heroash\\\\src\\\\App.css\")",
+      "Bash(npm run dev:*)",
+      "WebFetch(domain:crisp.co.jp)",
+      "WebFetch(domain:syo-ei.com)",
+      "WebFetch(domain:reel-re.co.jp)",
+      "WebFetch(domain:12-office.com)",
+      "WebFetch(domain:tokitoki-patina.jp)",
+      "Bash(npm run build:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
